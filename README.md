@@ -1,12 +1,12 @@
 OVERVIEW OF PROJECT:
 
-Project title: Slidebar-Menu-Project
+# Project title: Slidebar-Menu-Project
 
-#technologies used are:
+## Technologies used are:
 
 1) HTML   2)CSS 
 
-## Features :
+### Features :
 
 - By using just html and css , i have made slidebar menu of photography with various buttons but for creative purpose i have used labels instead of buttons.
 - Added a background picture of Photography camera so users/others can understand what this project is about.
