@@ -4,7 +4,7 @@ OVERVIEW OF PROJECT:
 
 ## Technologies used are:
 
-1) HTML   2)CSS 
+1) HTML   2) CSS 
 
 ### Features :
 
